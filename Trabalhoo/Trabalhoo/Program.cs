@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Runtime.Remoting.Contexts;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -12,7 +13,8 @@ namespace Trabalhoo
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
         /// </summary>
-        private static string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Trabalhodb;Integrated Security=True;Connect Timeout=30;Encrypt=False";
+        private static string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Integrated Security=True;Connect Timeout=30;Encrypt=False";
+        private static string connectionPString = "Data Source = (localdb)\\MSSQLLocalDB;Initial Catalog = Trabalhodb; Integrated Security = True; Connect Timeout = 30";
         [STAThread]
         static void Main()
         {
@@ -88,7 +90,7 @@ namespace Trabalhoo
         {
             bool tabelaExiste = false;
 
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            using (SqlConnection connection = new SqlConnection(connectionPString))
             {
                 connection.Open();
 
@@ -108,7 +110,7 @@ namespace Trabalhoo
 
         static void CriarTabelaProdutos()
         {
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            using (SqlConnection connection = new SqlConnection(connectionPString))
             {
                 connection.Open();
 
