@@ -1,0 +1,14 @@
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\bin\Debug\Trabalhoo.exe.config
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\bin\Debug\Trabalhoo.exe
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\bin\Debug\Trabalhoo.pdb
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\obj\Debug\Trabalhoo.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\obj\Debug\Trabalhoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\obj\Debug\Trabalhoo.FormCadastroProduto.resources
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\obj\Debug\Trabalhoo.Properties.Resources.resources
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\obj\Debug\Trabalhoo.csproj.GenerateResource.cache
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\obj\Debug\Trabalhoo.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\obj\Debug\Trabalhoo.exe
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\obj\Debug\Trabalhoo.pdb
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ricar\source\repos\Trabalhoo\Trabalhoo\obj\Debug\Trabalhoo.csproj.CopyComplete
